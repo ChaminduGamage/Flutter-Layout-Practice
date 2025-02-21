@@ -112,7 +112,6 @@ class MyApp extends StatelessWidget {
                                 borderRadius: BorderRadius.all(
                                   Radius.circular(10),
                                 ),
-                                color: Colors.red,
                               ),
                               child: Row(
                                 children: [
